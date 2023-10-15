@@ -24,6 +24,123 @@ const Body = () => {
 <div className="flex justify-center items-center">
      <img className="w-96 h-96" src="Images\IC logo_page-0001.jpg" alt="" />
 </div>
+
+<div className="mt-12 mb-11 sm:mt-16 md:mt-20 lg:mt-28 flex justify-center flex-col items-center">
+      <h1 className="text-3xl md:text-2xl sm:text-xl text-md text-center text-sky-700 font-extrabold">
+      പിന്നിട്ട വഴികളിലൂടെ...
+      </h1>
+      <div className="mt-4 gap-3 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3" data-aos="fade-up">
+  {/* Card 1 */}
+  <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+<img
+          className="w-full"
+          src="Images\img3.jpg"
+          alt=""
+        />
+   
+  </a>
+  <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img4.jpg"
+             alt=""
+           />
+      
+     </a>
+     <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img5.jpg"
+             alt=""
+           />
+      
+     </a>
+     <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img2.jpg"
+             alt=""
+           />
+      
+     </a>
+     <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img1.jpg"
+             alt=""
+           />
+      
+     </a>
+     <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img6.jpg"
+             alt=""
+           />
+      
+     </a>
+     <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img7.jpg"
+             alt=""
+           />
+      
+     </a>
+     <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img8.jpg"
+             alt=""
+           />
+      
+     </a>
+     <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img9.jpg"
+             alt=""
+           />
+      
+     </a>
+     <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img10.jpg"
+             alt=""
+           />
+      
+     </a>
+     <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img11.jpg"
+             alt=""
+           />
+      
+     </a> <a href="#" className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-emerald-100  ">
+   
+   <img
+             className="w-full"
+             src="Images\img12.jpg"
+             alt=""
+           />
+      
+     </a>
+
+</div>
+</div>
     </>
 
   );
