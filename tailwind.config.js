@@ -6,8 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
-   
   },
-  plugins: [ import('flowbite/plugin')
+  plugins: [
+    // eslint-disable-next-line no-undef
+    require('flowbite/plugin'), require('tailwind-scrollbar'), 
   ],
 }
+
